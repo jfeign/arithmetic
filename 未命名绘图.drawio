@@ -1,1 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T08:32:58.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.3.8" etag="BvXapgGCF9NWTwZ80UNx" type="github"><diagram id="lKv7DBSrNdoX-1kDI8C5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T08:41:38.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KSxOSpT5DQHgP8BAeIMp" version="15.3.8" type="github">
+  <diagram id="lKv7DBSrNdoX-1kDI8C5" name="第 1 页">
+    <mxGraphModel dx="2372" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="310" width="1867" height="2430" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-9" value="" style="group" vertex="1" connectable="0" parent="Hk_z0-95jRmdCQIgIKQr-8">
+          <mxGeometry width="1867" height="2430" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;entryX=0.666;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" target="Hk_z0-95jRmdCQIgIKQr-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="773" y="1460" as="sourcePoint" />
+            <mxPoint x="810" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-11" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;数据接口层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="40" y="1875" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;权限模型&lt;br&gt;中间数据层&lt;br&gt;(客户端redis内维护)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry y="800" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1185" y="1450" as="sourcePoint" />
+            <mxPoint x="1185" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-14" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="1800" as="sourcePoint" />
+            <mxPoint x="1867" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-15" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="720" as="sourcePoint" />
+            <mxPoint x="1842" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-16" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="720" as="sourcePoint" />
+            <mxPoint x="650" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-17" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;权限接口层&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="80" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-18" value="AuthResource&lt;T&gt;  资源" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="850" y="1030" width="360" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-19" value="// 资源code&#xa;String resourceCode;&#xa;String resourceName;&#xa;// 资源类型: 功能资源,数据资源&#xa;String type;&#xa;// 父code&#xa;String parentCode;&#xa; //  备注描述&#xa;String desc;&#xa;// 资源描述json数据. &#xa;抽象类: 更多字段去描述资源 . 如url, 部门,课程 等&#xa;T json;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-18">
+          <mxGeometry y="53" width="360" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-20" value="AuthRole 角色" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1230" y="930" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-21" value="String roleCode;&#xa;String roleName;&#xa;// 角色类型,标准/自定义角色&#xa;String roleType;&#xa;&#xa;// 权限范围 all, 单个&#xa;String authExtend;&#xa;//List&lt;UserGroup&gt; users;&#xa;List&lt;String&gt; depts;&#xa;List&lt;String&gt; persons;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-20">
+          <mxGeometry y="53" width="260" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-22" value="AuthConfig 权限模式配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="840" y="750" width="490" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-23" value="// 主数据更新时间. 0 为不更新,n分钟跟新一次,&#xa;int masterDataUpdateTimes;&#xa;&#xa;// 权限配置数据更新时间.-1为实时接口, 0 为不更新,n分钟跟新一次&#xa;int amcAuthDataUpdateTimes;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-22">
+          <mxGeometry y="53" width="490" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-24" value="自定权限数据&amp;同步导出api" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1388" width="410" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-25" value="&#xa;// --标准角色自定义更新接口--(for晋升自定义开口)&#xa;//updateStandradRole(String username, AuthRole authRole)&#xa;//delStandradRole(String username, AuthRole authRole)&#xa;&#xa;&#xa;// -------更新主数据切片类-------&#xa;// 更新所有权限数据, 传入日期,调用服务端接口&#xa;boolean updateAuthDate(LocalDate data);&#xa;&#xa;// 传入指定的主数据类型,更新切片数据缓存.(此接口待定)&#xa;boolean updateAuthDate(AuthSouceData sourceData)&#xa;&#xa;&#xa;//  ----全量导入导出类-----&#xa;// 导入all权限缓存数据. 全量覆盖会校验数据完整(仅本应用)&#xa;boolean importAll(AuthDto authJson);&#xa;&#xa;&#xa;// 导出all权限缓存数据&#xa;AuthDto exportAll();" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-24">
+          <mxGeometry y="53" width="410" height="567" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-26" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1176" y="670" as="sourcePoint" />
+            <mxPoint x="1176" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="710" as="sourcePoint" />
+            <mxPoint x="1560" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-28" value="AuthRule 规则,用于辅助描述用户组" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1360" y="730" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-29" value="String ruleId;&#xa;// 字段&#xa;AuthFieldEnum authField;&#xa;// 逻辑操作字符  EQUAL(&quot;==&quot;) NEQUAL(&quot;!=&quot;),IN(&quot;in&quot;),&#xa;ArithmeticOperateEnum arithmeticOperate;&#xa;// 规则值.&#xa;String value;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-28">
+          <mxGeometry y="53" width="380" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-30" value="UserGroup 用户组" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1530" y="960" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-31" value="// 唯一主键, 人or 用户组&#xa;String code;&#xa;String type;&#xa;// 权限规则 类似:all,&#xa;String authRule;&#xa;List&lt;String&gt; depts;&#xa;// 指定部分用户&#xa;List&lt;String&gt; persons;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-30">
+          <mxGeometry y="53" width="210" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-32" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;entryX=-0.015;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" source="Hk_z0-95jRmdCQIgIKQr-21" target="Hk_z0-95jRmdCQIgIKQr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="1100" as="sourcePoint" />
+            <mxPoint x="1730" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-33" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;entryX=0.729;entryY=1.007;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" source="Hk_z0-95jRmdCQIgIKQr-30" target="Hk_z0-95jRmdCQIgIKQr-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="1020" as="sourcePoint" />
+            <mxPoint x="1880" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-34" value="历史部门切片&#xa;/mdata/v1/departments/date" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="715" y="1850" width="470" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-35" value="List&lt;Depatment&gt; deps;&#xa;Depatment&#xa;String code 部门编号&#xa;String name    部门名称&#xa;String rank    部门级别&#xa;String superiorDepartmentCode  上级部门编号&#xa;String superiorDepartmentName  上级部门名称&#xa;String leaderNumber    部门负责人工号&#xa;String leaderName  部门负责人名称&#xa;String hrbpNumber  部门hrbp工号&#xa;String hrbpName    部门hrbp名称&#xa;String statusCode  部门状态&#xa;String hrbpOneName hrbp1名称&#xa;String hrbpOneNumber   hrbp1工号&#xa;String hrbpHeadNumber  hrbpHeadNumber&#xa;String hrbpHeadName    hrbpHeadName&#xa;String hrbpLeader  hrbpLeader&#xa;String hrbpLeaderName  hrbpLeaderName&#xa;String hrbpLeaderUsername  hrbpLeaderUsername&#xa;String departmentLevel departmentLevel&#xa;String orgLevel    orgLevel&#xa;String odbpNums    odbp工号，逗号分隔&#xa;Array odbpUsernames    odbp用户名列表" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-34">
+          <mxGeometry y="50" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-36" value="历史人员切片&#xa;/is/mdata/v1/persons/jobs/find" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="225" y="1850" width="470" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-37" value="List&lt;Person&gt; persons;&#xa;Person&#xa;String personid; 用户&#xa;String username; 用户&#xa;Date startDate; 开始日期&#xa;Date endDate; 结束日期&#xa;String event; 事件&#xa;String eventReason; 事件原因&#xa;String personStatus; 员工状态-code&#xa;String subjectionCompany; 隶属公司-code&#xa;String firstDepartment; 一级部门-code&#xa;String secondDepartment; 二级部门-code&#xa;String thirdDepartment; 三级部门-code&#xa;String fourthDepartment; 四级部门-code&#xa;String fifthDepartment; 五级部门-code&#xa;String sixthDepartment; 六级部门-code&#xa;String seventhDepartment; 七级部门-code&#xa;String currentDepartment; 所在部门-code&#xa;String dutyRank; 职务等级-存描述&#xa;String position; 职位-下拉选项-全球通用&#xa;String directManager; 直接主管-存工号-相应信息在人员主表取值&#xa;String tutorNumber; 导师&#xa;String labourCompany; 劳务公司-code&#xa;String workplace; 工作地点-code&#xa;Boolean ifRegular; 是否转正-转Boolean&#xa;Date regularDate; 实际转正日期&#xa;String employeeNature; 员工性质-code&#xa;String workScheduleCode; 工作时间-code" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-36">
+          <mxGeometry y="53" width="470" height="527" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-38" value="amc权限配置数据" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1315" y="1850" width="470" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-39" value="&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;用户所关联角色: &lt;/span&gt;/api/user/{username}/roles&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;角色可看资源 /api/role/{code}/resources&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;        单个应用的所有资源树 /api/resources/tree-list&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-38">
+          <mxGeometry y="30" width="470" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-40" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59.999999999999545" y="1440" as="sourcePoint" />
+            <mxPoint x="1862" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-41" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=18;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1840" as="sourcePoint" />
+            <mxPoint x="940" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=18;entryX=0.896;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" target="Hk_z0-95jRmdCQIgIKQr-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1452.857142857143" as="sourcePoint" />
+            <mxPoint x="1785" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-43" value="权限服务,更新api" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1030" width="330" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-44" value="&#xa;//  ---1.角色类 ----&#xa;// addRole(Role role);&#xa;// deleteRole(String roleCode);&#xa;&#xa;// --2.资源类---&#xa;addResources(AuthResurce resource);&#xa;updateResource(AuthResurce resource);&#xa;delResource(String resourceCode);&#xa;&#xa;// --3.角色授权类--&#xa;// 给角色新增/删除 用户批量接口&#xa;addRoleUser(String role,String[] usernames);&#xa;delRoleUser(String role,String[] usernames);&#xa;&#xa;// --4.角色资源绑定类-- (总是全量覆盖)&#xa;update(String roleCode,String[] resourceCode);&#xa;&#xa;&#xa;// -- 自定义复杂角色数据权限 (二期)--&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-43">
+          <mxGeometry y="53" width="330" height="617" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-45" value="权限服务api" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="300" width="710" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-46" value="//  1.获取应用内所有角色&#xa;List&lt;AuthRole&gt; getAllStandRole&#xa;&#xa;//  2.获取用户所有角色,支持控制是否需要标准角色&#xa;List&lt;AuthRole&gt; getAllRoleByUser(boolean includeStandard);&#xa;&#xa;//  3.获取角色用户所有用户, &#xa;// extValue 描述具体获取那个特定角色. 如A部门的负责人,再如b部门的odbp. 默认为空则所有.&#xa;List&lt;SimPerson&gt; getUserByRoleCode(String roleCode,String extValue);&#xa;&#xa;&#xa;// ----------资源权限--------------&#xa;//  4.获取角色list所有可访问资源(去重).  多个role&#xa;List&lt;AuthAccessResourceDTO&gt;&gt; getAccessResouresByRole(String ...roleCodes);&#xa;// 4.1获取当前用户所有可访问资源(去重). 相当于先获取所有角色再调用上接口 &#xa;List&lt;AuthAccessResourceDTO&gt;&gt; getAccessResouresByUser(String username);&#xa;// 5. 校验是否可访问路径(资源)&#xa;boolean checkResourceByRole(String url,String ...roleCodes); &#xa;boolean checkResourceByRole(String url,String username); &#xa;&#xa;&#xa;//-------数据权限 (标准数据权限,管理数据是人or&#39;部门) --------------&#xa;//  6.获取所有可访问部门,支持传入单个角色or批量角色,&#xa;不传角色则返回此角色所有可访问部门. 两个控制参数,控制是否需要失效和子部门.&#xa;Map&lt;String,List&lt;String&gt;&gt; getAccessDeptsByRole(String username,String[] roles,boolean hasChirldDep,)&#xa;&#xa;//  7.获取所有查看的人, 支持传入单个角色or批量角色,&#xa;不传角色则返回此角色所有可访问部门. 两个控制参数,控制是否需要离职和外包.&#xa;Map&lt;String,List&lt; SimPerson&gt;&gt; getAccessPersonByRole(String username,String[] roles,boolean valid)&#xa;&#xa;//------ -(自定义节点角色数据权限: 二期再支持)  --------------&#xa;List&lt;DataNodeDTO&gt; getNodesByUsernameAndRole(String roleCode, String username);&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-45">
+          <mxGeometry y="53" width="710" height="617" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-47" value="&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;&lt;br&gt;权限计算和适配层&lt;br&gt;(&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 30px&quot;&gt;统一权限服务端&lt;/b&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="15" y="1470" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-48" value="计算历史权限服务" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="1140" y="1470" width="700" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-49" value="&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; text-align: left&quot;&gt;//---计算单个应用所需所有权限服务--- &lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; text-align: left&quot;&gt;AuthDto getAuthDate(LocalDate data,Stirng appCode);&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-48">
+          <mxGeometry y="30" width="700" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-50" value="实时权限提供服务(降级and兼容老逻辑)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=23;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="300" y="1460" width="730" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-51" value="&lt;pre style=&quot;font-family: &amp;#34;source code pro&amp;#34; , monospace ; font-size: 15px&quot;&gt;// 角色类&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;List&amp;lt;AuthRole&amp;gt; getAllStandRole &lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;List&amp;lt;AuthRole&amp;gt; getAllRoleByUser(boolean includeStandard);&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;// extValue 描述具体获取那个特定角色. 如A部门的负责人,再如b部门的odbp. 默认为空则所有.&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;List&amp;lt;SimPerson&amp;gt; getUserByRoleCode(String roleCode,String extValue);&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;// ----------资源权限--------------&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;List&amp;lt;AuthAccessResourceDTO&amp;gt;&amp;gt; getAccessResouresByRole(String ...roleCodes); &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;// 4.1获取当前用户所有可访问资源(去重). 相当于先获取所有角色再调用上接口&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;List&amp;lt;AuthAccessResourceDTO&amp;gt;&amp;gt; getAccessResouresByUser(String username);&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;boolean checkResourceByRole(String url,String ...roleCodes);&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;boolean checkResourceByRole(String url,String username);&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;//-------数据权限 (标准数据权限,管理数据是人or&#39;部门) --------------&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;Map&amp;lt;String,List&amp;lt;String&amp;gt;&amp;gt; getAccessDeptsByRole(String username,String[] roles,boolean hasChirldDep,)&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;Map&amp;lt;String,List&amp;lt;&amp;nbsp;SimPerson&amp;gt;&amp;gt;&amp;nbsp;getAccessPersonByRole(String username,String[] roles,boolean valid)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-50">
+          <mxGeometry y="23" width="730" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-52" value="AuthDto 权限模式配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=53;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-9">
+          <mxGeometry x="290" y="750" width="475" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-53" value="// //  日期+版本号&#xa;String  version;&#xa;&#xa;AuthConfig authfig; // 配置&#xa;&#xa;// --- 权限模型 ---&#xa; // 人员code,对应角色,及角色所对权限范围.(计算好的权限结果)&#xa;Map&lt;String, List&lt;AuthRole&gt;&gt; personAuthMap;&#xa;&#xa;// 角色 ,人员:和其负责的部门范围&#xa;Map&lt;String, Map&lt;String, Collection&lt;String&gt;&gt;&gt;   rolePersonsMap;&#xa;&#xa;// 部门人员映射&#xa;Map&lt;String, Set&lt;String&gt;&gt; depPersonMap;&#xa;&#xa;// 部门树,子部门树 ,算法&#xa;Map&lt;String, List&lt;String&gt;&gt; fatherDepMap;&#xa;// 人员树. 给定一个人快速找到下属&#xa;Map&lt;String, List&lt;String&gt;&gt; leaderPersonMap;&#xa;&#xa;&#xa;// amc配置数据&#xa;// 角色接资源map&#xa;Map&lt;String, List&lt;String&gt;&gt; roleResourceMap;&#xa;&#xa;// 资源数据map&#xa;private Map&lt;String, AuthResource&gt; resourceCodeMap;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;strokeWidth=4;" vertex="1" parent="Hk_z0-95jRmdCQIgIKQr-52">
+          <mxGeometry y="53" width="475" height="517" as="geometry" />
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-54" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" source="Hk_z0-95jRmdCQIgIKQr-53" target="Hk_z0-95jRmdCQIgIKQr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="1177.5" as="sourcePoint" />
+            <mxPoint x="1200" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-55" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" source="Hk_z0-95jRmdCQIgIKQr-53" target="Hk_z0-95jRmdCQIgIKQr-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="932.25" as="sourcePoint" />
+            <mxPoint x="960" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hk_z0-95jRmdCQIgIKQr-56" value="" style="endArrow=none;dashed=1;html=1;fontSize=18;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="Hk_z0-95jRmdCQIgIKQr-9" source="Hk_z0-95jRmdCQIgIKQr-52" target="Hk_z0-95jRmdCQIgIKQr-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="811.3771929824561" as="sourcePoint" />
+            <mxPoint x="1010" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
